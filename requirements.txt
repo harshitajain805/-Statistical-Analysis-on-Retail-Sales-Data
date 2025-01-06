@@ -1,0 +1,6 @@
+# List of required R packages for Retail Sales Analysis
+
+dplyr
+ggplot2
+tidyr
+lubridate
